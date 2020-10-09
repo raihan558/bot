@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 ,BTV
+http://103.205.133.21/hls/btv.m3u8
+#EXTINF:-1 ,BTV WORLD
+http://103.205.133.21/hls/btvworld.m3u8
+#EXTINF:-1 ,BANGLA VISION
+http://103.205.133.21/hls/banglavision.m3u8
+#EXTINF:-1,ATN BANGLA
+http://103.205.133.21/hls/atnbangla.m3u8
+#EXTINF:-1,CHANNEL 9
+http://103.205.133.21/hls/ninechannel.m3u8
+#EXTINF:-1,CHANNEL I
+http://103.205.133.20/hls/ichannel.m3u8
+#EXTINF:-1,EKUSHEY
+http://103.205.133.21/hls/ekushey.m3u8
+#EXTINF:-1,SOMOY
+http://103.205.133.21/hls/somoy.m3u8
+#EXTINF:-1,RTV
+http://103.205.133.21/hls/rtv.m3u8
+#EXTINF:-1,ASIAN
+http://103.205.133.20/hls/asiantv.m3u8
+#EXTINF:-1,CHANNEL 24
+http://103.205.133.21/hls/channel24.m3u8
+#EXTINF:-1,ATN NEWS
+http://103.205.133.21/hls/atnnews.m3u8
+#EXTINF:-1,SATV
+http://103.205.133.21/hls/satv.m3u8
+#EXTINF:-1,DEEPTO
+http://103.205.133.21/hls/deeptotv.m3u8
+#EXTINF:-1,EKATOOR
+http://103.205.133.20/hls/ekatoortv.m3u8
+#EXTINF:-1,BOISAKHI
+http://103.205.133.21/hls/boisakhi.m3u8
+#EXTINF:-1,GAAN BANGLA
+http://103.205.133.20/hls/gaanbangla.m3u8
+#EXTINF:-1,MY TV
+http://103.205.133.21/hls/mytv.m3u8
+#EXTINF:-1,DBC NEWS
+http://103.205.133.21/hls/dbcnews.m3u8
+#EXTINF:-1,NTV
+http://103.205.133.21/hls/ntv.m3u8
+#EXTINF:-1,BANGLA TV
+http://103.205.133.21/hls/banglatv.m3u8
+#EXTINF:-1,BIJOY 
+http://103.205.133.21/hls/bijoytv.m3u8
+#EXTINF:-1,NAGORIK
+http://103.205.133.20/hls/nagorik.m3u8
+#EXTINF:-1,Z ETC
+http://103.205.133.21/hls/zetc.m3u8
+#EXTINF:-1,ZEE TV
+http://103.205.133.21/hls/zeetv.m3u8
+#EXTINF:-1,ZEE BANGLA
+http://103.205.133.21/hls/zeebangla.m3u8
+#EXTINF:-1,ZEE CINEMA
+http://103.205.133.21/hls/zeecinema.m3u8
+#EXTINF:-1,CHANNEL 9-HD
+http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+#EXTINF:-1,HBO
+http://103.76.241.13:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY
+http://103.76.241.13:8080/sony/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
+#EXTINF:-1,BOLLYWOOD CLASSIC 
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,RT NEWS
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1,SONY 8
+http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1,BANGLA TIME
+http://103.205.133.20/hls/banglatime.m3u8
+#EXTINF:-1,TEN 1
+http://103.205.133.21/hls/ten1.m3u8
+#EXTINF:-1,& TV 
+http://103.205.133.21/hls/andtv.m3u8
+#EXTINF:-1,& PICTURE 
+http://103.205.133.21/hls/andpicture.m3u8
+#EXTINF:-1,9XM 
+http://103.205.133.21/hls/9xm.m3u8
+#EXTINF:-1,WOW CINEMA
+http://103.205.133.21/hls/wowcinema.m3u8
+#EXTINF:-1,TEN SPORTS
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+#EXTINF:-1,JHANJAR
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,PAKISTANI 2
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,PAKISTANI 3
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+#EXTINF:-1,BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,STAR JALSHA 
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
