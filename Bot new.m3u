@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 ,BTV
+http://103.205.133.21/hls/btv.m3u8
+#EXTINF:-1 ,BTV WORLD
+http://103.205.133.21/hls/btvworld.m3u8
+#EXTINF:-1 ,BANGLA VISION
+http://103.205.133.21/hls/banglavision.m3u8
+#EXTINF:-1,ATN BANGLA
+http://103.205.133.21/hls/atnbangla.m3u8
+#EXTINF:-1,CHANNEL 9
+http://103.205.133.21/hls/ninechannel.m3u8
+#EXTINF:-1,CHANNEL I
+http://103.205.133.21/hls/ichannel.m3u8
+#EXTINF:-1,EKUSHEY
+http://103.205.133.21/hls/ekushey.m3u8
+#EXTINF:-1,SOMOY
+http://103.205.133.21/hls/somoy.m3u8
+#EXTINF:-1,RTV
+http://103.205.133.21/hls/rtv.m3u8
+#EXTINF:-1,DESH TV
+http://103.205.133.21/hls/deshtv.m3u8
+#EXTINF:-1,ASIAN
+http://103.205.133.21/hls/asiantv.m3u8
+#EXTINF:-1,CHANNEL 24
+http://103.205.133.21/hls/channel24.m3u8
+#EXTINF:-1,ATN NEWS
+http://103.205.133.21/hls/atnnews.m3u8
+#EXTINF:-1,SATV
+http://103.205.133.21/hls/satv.m3u8
+#EXTINF:-1,DEEPTO
+http://103.205.133.21/hls/deeptotv.m3u8
+#EXTINF:-1,EKATOOR
+http://103.205.133.21/hls/ekatoortv.m3u8
+#EXTINF:-1,BOISAKHI
+http://103.205.133.21/hls/boisakhi.m3u8
+#EXTINF:-1,GAAN BANGLA
+http://103.205.133.21/hls/gaanbangla.m3u8
+#EXTINF:-1,MY TV
+http://103.205.133.21/hls/mytv.m3u8
+#EXTINF:-1,DBC NEWS
+http://103.205.133.21/hls/dbcnews.m3u8
+#EXTINF:-1,NTV
+http://103.205.133.21/hls/ntv.m3u8
+#EXTINF:-1,BANGLA TV
+http://103.205.133.21/hls/banglatv.m3u8
+#EXTINF:-1,BIJOY 
+http://103.205.133.21/hls/bijoytv.m3u8
+#EXTINF:-1,NAGORIK
+http://103.205.133.21/hls/nagorik.m3u8
+#EXTINF:-1,SRISTY TV
+http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
+#EXTINF:-1,ZEE CINEMA
+http://103.205.133.21/hls/zeecinema.m3u8
+#EXTINF:-1,RT NEWS
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1,SONY 8
+http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1,TEN 1
+http://103.205.133.21/hls/ten1.m3u8
+#EXTINF:-1,& TV 
+http://103.205.133.21/hls/andtv.m3u8
+#EXTINF:-1,& PICTURE 
+http://103.205.133.21/hls/andpicture.m3u8
+#EXTINF:-1,GEO NEWS
+http://103.205.133.21/hls/geonews.m3u8
+#EXTINF:-1,9XM 
+http://103.205.133.21/hls/9xm.m3u8
+#EXTINF:-1,WOW CINEMA
+http://103.205.133.21/hls/wowcinema.m3u8
+#EXTINF:-1,JHANJAR
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,WIXLAR
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1,RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1,BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,MTA
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1,PAKISTANI 1
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,PAKISTANI 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+#EXTINF:-1,PAKISTANI 3
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1,PAKISTANI 4
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1,NICK JR. 
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8?checkedby:hlscat.com
+#EXTINF:-1,DISNEY
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:hlscat.com
